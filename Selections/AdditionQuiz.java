@@ -1,7 +1,4 @@
-package Selections;
-
 import java.util.Scanner;
-
 public class AdditionQuiz {
     public static void main(String[] args) {
         int number1 = (int)(System.currentTimeMillis() % 10);           //generate number 1
