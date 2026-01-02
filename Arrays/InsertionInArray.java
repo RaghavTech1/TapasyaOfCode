@@ -26,6 +26,7 @@ public class InsertionInArray {
         iia.insert(1, 10);
         iia.insert(2, 20);
         iia.insert(1, 30);
+        iia.insert(3, 50);
         iia.insert(12, 120);
     }
 }
